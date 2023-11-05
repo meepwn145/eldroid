@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MACOL_RICHARD’s Animal Names</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_description">Animal Description</string>
+</resources>
